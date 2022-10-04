@@ -17,7 +17,7 @@
   <p> hobbies: video games, fencing, sleeping </p>
   
   <h2> video games that i like </h2>
-  <img src="images.jpg" />
+  <img src="images" />
 </body>
 
 
