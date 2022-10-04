@@ -20,6 +20,7 @@
   <p> among us </p> 
   <img src="amongus.jpg" />
   <p> minecraft </p> 
+  <p> ![mc](https://user-images.githubusercontent.com/114519131/193759912-b11096c4-3a57-4d02-8d20-be123b7448a0.jpg) </p>
 </body>
 
 
