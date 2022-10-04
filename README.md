@@ -14,7 +14,7 @@
   <p> among us </p> 
   <img src="amongus.jpg" />
   <p> minecraft </p> 
-  <img src="![mc](https://user-images.githubusercontent.com/114519131/193759912-b11096c4-3a57-4d02-8d20-be123b7448a0.jpg)" style="width: 383px; height: 375.22px; margin: 0px;/>
+  <img src="![mc](https://user-images.githubusercontent.com/114519131/193759912-b11096c4-3a57-4d02-8d20-be123b7448a0.jpg)" style="width: 383px; height: 375.22px; margin: 0px;" />
 </body>
 
 
