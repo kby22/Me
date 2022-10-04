@@ -19,6 +19,7 @@
   <h2> video games that i like </h2>
   <p> among us </p> 
   <img src="amongus.jpg" />
+  <p> minecraft </p> 
 </body>
 
 
