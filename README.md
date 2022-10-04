@@ -3,8 +3,8 @@
 <head>
 <title> Clash royale news </title>
 <style>
-h1 {color:blue;}
-body {background:red;}
+
+
 </style>
 </head>
 
