@@ -1,6 +1,6 @@
 
 <html>
-
+<h1> Stuff about me </h1>
 
 <body>
 <h2> general information </h2>
