@@ -1,12 +1,6 @@
 
 <html>
-<head>
-<title> stuff about me </title>
-<style>
 
-
-</style>
-</head>
 
 <body>
 <h2> general information </h2>
