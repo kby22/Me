@@ -12,8 +12,8 @@
   
   <h2> video games that i like </h2>
   <p> among us </p> 
-  <img src="amongus.jpg" />
-  <p> minecraft </p> 
+  <img src=" " />
+  <p> clash royale </p> 
 <img src="https://user-images.githubusercontent.com/114519131/193762913-c2904cd2-724f-4228-abac-647d1d2b9e7d.jpg" data-noaft="1" style="width: 383px; height: 375.22px; margin: 0px;" />
 </body>
 
