@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<h2> general information </h2?
+<h2> general information </h2>
   <p> name: kevin yan </p>
   <p> height: 6'3 </p>
   <p> weight: 160lb </p>
